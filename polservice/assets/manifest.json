@@ -1,0 +1,66 @@
+{
+  "name": "Portmone",
+  "short_name": "portmone.com.ua",
+  "description": "Portmone Web Application",
+  "theme_color": "#FC3131",
+  "background_color": "#F1F5F9",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/",
+  "orientation": "any",
+  "related_applications": [
+    {
+      "platform": "web",
+      "url": "https://www.portmone.com.ua/"
+    },
+    {
+      "platform": "play",
+      "url": "https://play.google.com/store/apps/details?id=com.portmone2.android"
+    },
+    {
+      "platform": "itunes",
+      "url": "https://apps.apple.com/ua/app/portmone/id587804458"
+    }
+  ],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "../assets/images/pwa/144x144.svg",
+      "sizes": "144x144",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    },
+    {
+      "src": "../assets/images/pwa/72x72.png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "../assets/images/pwa/96x96.png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "../assets/images/pwa/128x128.png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "../assets/images/pwa/144x144.png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "../assets/images/pwa/152x152.png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "../assets/images/pwa/192x192.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "../assets/images/pwa/384x384.png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "../assets/images/pwa/512x512.png",
+      "sizes": "512x512"
+    }
+  ]
+}
