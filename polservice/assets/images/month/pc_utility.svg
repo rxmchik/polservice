@@ -1,0 +1,25 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g clip-path="url(#clip0)">
+        <path d="M12 8V5C12 3.89543 12.8954 3 14 3H34C35.1046 3 36 3.89543 36 5V35L32 33L28 35L24 33L20 35L16 33" stroke="#38BDF8" stroke-width="2" stroke-linecap="round"/>
+        <rect x="15" y="6" width="6" height="2" rx="1" fill="#E2E8F0"/>
+        <rect x="15" y="10" width="3" height="2" rx="1" fill="#E2E8F0"/>
+        <rect x="29" y="23" width="4" height="2" rx="1" fill="#E2E8F0"/>
+        <rect x="27" y="27" width="6" height="2" rx="1" fill="#E2E8F0"/>
+        <rect x="25" y="6" width="8" height="2" rx="1" fill="#E2E8F0"/>
+        <rect x="28" y="10" width="5" height="2" rx="1" fill="#E2E8F0"/>
+        <rect x="25" y="14" width="8" height="2" rx="1" fill="#E2E8F0"/>
+        <rect x="27" y="18" width="6" height="2" rx="1" fill="#E2E8F0"/>
+        <path d="M17 22C17 23.302 16.5036 24.4858 15.6881 25.3761L17.1629 26.7271C18.303 25.4824 19 23.8215 19 22H17ZM12 17C14.7614 17 17 19.2386 17 22H19C19 18.134 15.866 15 12 15V17ZM7 22C7 19.2386 9.23858 17 12 17V15C8.13401 15 5 18.134 5 22H7ZM8.31189 25.3761C7.49634 24.4858 7 23.302 7 22H5C5 23.8215 5.697 25.4824 6.83709 26.727L8.31189 25.3761ZM10.2727 30.2727V29.4922H8.27271V30.2727H10.2727ZM13.7273 29.4922V30.2727H15.7273V29.4922H13.7273ZM8.27271 30.2727C8.27271 32.3312 9.94146 34 12 34V32C11.046 32 10.2727 31.2267 10.2727 30.2727H8.27271ZM6.83709 26.727C7.70278 27.6721 8.27271 28.5781 8.27271 29.4922H10.2727C10.2727 27.7714 9.2259 26.374 8.31189 25.3761L6.83709 26.727ZM12 34C14.0585 34 15.7273 32.3312 15.7273 30.2727H13.7273C13.7273 31.2267 12.9539 32 12 32V34ZM15.6881 25.3761C14.7741 26.374 13.7273 27.7714 13.7273 29.4922H15.7273C15.7273 28.5782 16.2972 27.6721 17.1629 26.7271L15.6881 25.3761Z" fill="#FC3131"/>
+        <rect x="8" y="33" width="8" height="3" stroke="#38BDF8" stroke-width="2"/>
+        <rect x="11" y="10" width="2" height="4" rx="1" fill="#FC3131"/>
+        <rect x="19.7072" y="11.8787" width="2" height="4" rx="1" transform="rotate(45 19.7072 11.8787)" fill="#FC3131"/>
+        <rect x="2.87866" y="13.2929" width="2" height="4" rx="1" transform="rotate(-45 2.87866 13.2929)" fill="#FC3131"/>
+        <rect y="21" width="2" height="4" rx="1" transform="rotate(-90 0 21)" fill="#FC3131"/>
+        <rect x="20" y="21" width="2" height="4" rx="1" transform="rotate(-90 20 21)" fill="#FC3131"/>
+    </g>
+    <defs>
+        <clipPath id="clip0">
+            <rect width="40" height="40" fill="white"/>
+        </clipPath>
+    </defs>
+</svg>

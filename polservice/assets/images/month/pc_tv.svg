@@ -1,0 +1,16 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect x="3" y="9" width="34" height="22" rx="2" stroke="#38BDF8" stroke-width="2"/>
+    <rect x="19" y="31" width="2" height="5" stroke="#38BDF8" stroke-width="2"/>
+    <mask id="path-3-inside-1" fill="white">
+        <path d="M28 35L28 37L12 37L12 35L28 35Z"/>
+    </mask>
+    <path d="M28 35L30 35L30 33L28 33L28 35ZM28 37L28 39L30 39L30 37L28 37ZM12 37L10 37L10 39L12 39L12 37ZM12 35L12 33L10 33L10 35L12 35ZM26 35L26 37L30 37L30 35L26 35ZM28 35L12 35L12 39L28 39L28 35ZM14 37L14 35L10 35L10 37L14 37ZM12 37L28 37L28 33L12 33L12 37Z" fill="#38BDF8" mask="url(#path-3-inside-1)"/>
+    <rect x="7" y="15" width="11" height="7" stroke="#E2E8F0" stroke-width="2"/>
+    <rect x="22" y="15" width="11" height="7" stroke="#E2E8F0" stroke-width="2"/>
+    <rect x="6.5" y="25.5" width="5" height="1" rx="0.5" stroke="#E2E8F0"/>
+    <rect x="13.5" y="25.5" width="5" height="1" rx="0.5" stroke="#E2E8F0"/>
+    <rect x="21.5" y="25.5" width="5" height="1" rx="0.5" stroke="#E2E8F0"/>
+    <rect x="28.5" y="25.5" width="5" height="1" rx="0.5" stroke="#E2E8F0"/>
+    <circle cx="8.5" cy="8.5" r="7.5" fill="white" stroke="#FC3131" stroke-width="2"/>
+    <path d="M8.25 9.75L8.25 7.25L10 8.5L8.25 9.75Z" fill="#FC3131" stroke="#FC3131" stroke-width="2"/>
+</svg>
